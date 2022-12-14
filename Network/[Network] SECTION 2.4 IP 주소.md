@@ -1,1 +1,1 @@
-# [Network] SECTION 2.3 네트워크 기기
+# [Network] SECTION 2.4 IP 주소
