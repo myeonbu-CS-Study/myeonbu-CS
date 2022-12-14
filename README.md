@@ -32,7 +32,7 @@
  - 커밋 메시지 규칙 : [과목] 이름
  - 과목 명 : `디자인 패턴(Design pattern)`, `네트워크(Network)`, `운영체제(OS)`, `데이터베이스(DB)`, `자료구조(Data Structure)` 
 
- ex) `[Network] SECTION 2.3 네트워크 기기`  `[Network] 이현구`
+ ex) `[Network] SECTION 2.3 네트워크 기기.md`  `[Network] 이현구`
 
 &nbsp; 
 
