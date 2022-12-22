@@ -44,7 +44,7 @@ IPv4
 
 IPv6
 
-- 64비트를 16비트 단위로 점을 찍어 표기
+- 128비트를 16비트 단위로 점을 찍어 표기
 - ex) 2001:db8::ff00:42:83
 
 ![ipv4](https://user-images.githubusercontent.com/40704078/209029368-a8733a3e-dc87-4abf-acce-5fba712df180.PNG)
