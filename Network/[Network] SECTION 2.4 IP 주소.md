@@ -32,6 +32,7 @@
   라우팅 테이블 명령어
   netstat -r
   ```
+![Untitled 6](https://user-images.githubusercontent.com/40704078/209028734-a68eb1e5-35b2-4862-9eb3-bbd3493c5fcd.png)
 
 ### 2.4.3 IP 주소 체계
 
@@ -46,10 +47,14 @@ IPv6
 - 64비트를 16비트 단위로 점을 찍어 표기
 - ex) 2001:db8::ff00:42:83
 
+![ipv4](https://user-images.githubusercontent.com/40704078/209029368-a8733a3e-dc87-4abf-acce-5fba712df180.PNG)
+
 클래스 기반 할당 방식
 
 - 초기에는 A,B,C,D,E 다섯 개의 클래스로 IP를 구분하는 클래스 기반 할당 방식 사용
 - 앞 부분 (네트워크 주소) + 뒷 부분(호스트 주소)
+
+![클래스 기반](https://user-images.githubusercontent.com/40704078/209029457-98cecd39-0c7d-44bc-a313-fe8177865250.PNG)
 
 ```bash
 
