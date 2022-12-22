@@ -2,7 +2,7 @@
 
 컴퓨터들은 IP주소에서 ARP를 통해 MAC 주소를 찾아 MAC 주소를 기반으로 통신한다.
 
-### 2.4.1 ARP (Address Resolution
+### 2.4.1 ARP (Address Resolution Protocol)
 
 - ARP는 IP와 MAC 주소 사이의 다리 역할을 하는 프로토콜이다.
 - 가상 주소인 IP 주소를 실제 주소인 MAC 주소로 변환한다.
