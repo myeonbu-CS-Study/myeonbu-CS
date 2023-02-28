@@ -61,7 +61,7 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 |------|------|
 |[Hadoop](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/Hadoop.md)|김승희|
 |[BigData](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/BigData.md)|백자민|
-|[개발상식](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D.md)|이현구|
+|[개발상식](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/개발상식.md)|이현구|
 |[API G/W](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/API%20GATEWAY.md)|최규림|
 
 
