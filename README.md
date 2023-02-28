@@ -52,7 +52,7 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 |파트|이름|
 |------|------|
 |[MSA](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/MSA.md)|김승희|
-|[Https(https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/HTTPS.md)]|백자민|
+|[Https](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/HTTPS.md)|백자민|
 |[BlockChain](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/BlockChain.md)|이현구|
 |[Jenkins](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/Jenkins.md)|최규림|
 
