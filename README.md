@@ -82,6 +82,15 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 |[Spring Cloud](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/Spring%20Cloud.md)|최규림|
 
 
+### 6주차 (03.19)
+|파트|이름|
+|------|------|
+|[Deadlock](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/Deadlock1.md)|김승희|
+|[Batch](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/Batch.md)|백자민|
+|[DNS](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/DNS.md)|이현구|
+|[Gradle](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/Gradle.md)|최규림|
+
+
 <details>
 <summary>
  Phase 1 (2022.12.14 ~ 2023.01.19)
