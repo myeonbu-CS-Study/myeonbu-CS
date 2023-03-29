@@ -91,6 +91,10 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 |[Gradle](https://github.com/Leeh9/myeonbu-CS/blob/main/Phase2/Gradle.md)|최규림|
 
 
+### 7주차 (03.26)
+학습 내용 회고 및 기술 면접 대비
+
+
 <details>
 <summary>
  Phase 1 (2022.12.14 ~ 2023.01.19)
