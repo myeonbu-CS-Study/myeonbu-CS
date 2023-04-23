@@ -1,1 +1,1 @@
-[API GATEWAY](https://gyurim.tistory.com/127)
+[Spring AOP](https://gyurim.tistory.com/127)
