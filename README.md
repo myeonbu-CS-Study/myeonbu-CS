@@ -119,6 +119,14 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 |[NoSQL](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/NoSQL.md)|이현구|
 |[JWT](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/JWT.md)|최규림|
 
+### 11주차 (04.30)
+|파트|이름|
+|------|------|
+|[OAuth 2.0](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/OAuth2.md)|김승희|
+|[JVM](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/jvm.md)|백자민|
+|[WebClient](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/WebClient.md)|이현구|
+|[Devops](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Devops.md)|최규림|
+
 <details>
 <summary>
  Phase 1 (2022.12.14 ~ 2023.01.19)
