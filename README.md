@@ -95,6 +95,30 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 학습 내용 회고 및 기술 면접 대비
 
 
+### 8주차 (04.12)
+|파트|이름|
+|------|------|
+|[Mutex&Semaphore](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Mutex%26Semaphore.md)|김승희|
+|[Kubernetes](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Kubernetes.md)|백자민|
+|[SSE](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/SSE.md)|이현구|
+|[Fintech](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Fintech.md)|최규림|
+
+### 9주차 (04.16)
+|파트|이름|
+|------|------|
+|[Restful API](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Rest%26Java8-9.md)|김승희|
+|[Querydsl](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Querydsl.md)|백자민|
+|[Message Queue](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Message%20Queue.md)|이현구|
+|[Spring AOP](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Spring%20AOP.md)|최규림|
+
+### 10주차 (04.23)
+|파트|이름|
+|------|------|
+|[Java8 & Java9](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Rest%26Java8-9.md)|김승희|
+|[Trie](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Trie.md)|백자민|
+|[NoSQL](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/NoSQL.md)|이현구|
+|[JWT](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/JWT.md)|최규림|
+
 <details>
 <summary>
  Phase 1 (2022.12.14 ~ 2023.01.19)
