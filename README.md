@@ -127,6 +127,28 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 |[WebClient](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/WebClient.md)|이현구|
 |[Devops](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Devops.md)|최규림|
 
+### 12주차 (05.07)
+|파트|이름|
+|------|------|
+|[프로젝트 관련 면접 질문](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B4%80%EB%A0%A8_%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8.md)|김승희|
+|[GarbageCollection](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/GarbageCollection.md)|백자민|
+|[Spring Webflux](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Webflux.md)|이현구|
+|[Sort Algorithm](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Sort_Algorithm.md)|최규림|
+
+### 13주차 (05.14)
+기술 면접 회고 및 관련 내용 정리
+
+### 14주차 (05.21)
+|파트|이름|
+|------|------|
+|[JavaDoc](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/Javadoc.md)|김승희|
+|[FastAPI](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/FastAPI.md)|백자민|
+|[프로젝트 방법론](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase2/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%A9%EB%B2%95%EB%A1%A0.md)|이현구|
+|[Database  Index]()|최규림|
+
+### 15주차 (05.28)
+2분기 스터디 내용 총정리 및 발표
+
 <details>
 <summary>
  Phase 1 (2022.12.14 ~ 2023.01.19)
