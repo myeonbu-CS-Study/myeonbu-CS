@@ -2,7 +2,10 @@
 Phase 1 (2022.12.14 ~ 2023.01.19)
  
 
-**Phase 2 (2023.01.28 ~ ing)**
+Phase 2 (2023.01.28 ~ 2023.05.23)
+
+
+**Phase 3 (2023.06.08 ~ ing)**
 
 
 &nbsp; 
@@ -16,13 +19,35 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 ## :mage: Member
 김승희 [@seunghee](https://github.com/seunghee114)
 
-백자민 [@sdflksjf2683](https://github.com/sdflksjf2683)
+김아영 [@김아영 (KIM A YOUNG)](https://github.com/joen00)
 
-이현구 [@Leeh9](https://github.com/Leeh9)
+김지희 [@Jihee Kim](https://github.com/4priltwntsx)
+
+백자민 [@sdflksjf2683](https://github.com/sdflksjf2683)
 
 최규림 [@Gyurim Choi](https://github.com/choi1087)
 
 &nbsp;
+
+## 🔥 Phase3
+### :scroll: Rule
+
+매주 목요일 9시에 스터디를 진행합니다.
+
+각자 원하는 책을 선정 후, 학습 내용을 정리하여 발표합니다.
+
+ ### 제출 방식
+ - 해당 주차 파트에 본인 이름으로 commit & push 합니다.
+ - 파일 명 규칙 : 주제
+ - 커밋 메시지 규칙 : 이름
+
+ ex) `Spring Data JPA`  `이현구`
+ 
+<details>
+<summary>
+ Phase 2 (2023.01.28 ~ 2023.05.23)
+</summary>
+
 
 ## 🔥 Phase2
 ### :scroll: Rule
@@ -148,6 +173,7 @@ Phase 1 (2022.12.14 ~ 2023.01.19)
 
 ### 15주차 (05.28)
 2분기 스터디 내용 총정리 및 발표
+</details>
 
 <details>
 <summary>
