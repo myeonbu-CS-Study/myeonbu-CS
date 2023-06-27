@@ -46,21 +46,38 @@ Phase 2 (2023.01.28 ~ 2023.05.23)
  ### 책 선정
  |파트|이름|
 |------|------|
-|[]()|김승희|
+|개발자 상식|김승희|
 |면접을 위한 CS 전공지식 노트|김아영|
 |면접을 위한 CS 전공지식 노트	|김지희|
 |헤드퍼스트 디자인패턴|백자민|
 |모던 자바 인 액션|최규림|
+
+ ### 3주차 (06.23)
+|파트|이름|
+|------|------|
+|[프로그래밍 언어](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%8A%B9%ED%9D%AC.md)|김승희|
+|[데이터베이스의 종류와 인덱스](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%95%84%EC%98%81.md)|김아영|
+|[네트워크 기초 개념 정리](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%A7%80%ED%9D%AC.md)|김지희|
+|[Template Method Pattern](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EB%B0%B1%EC%9E%90%EB%AF%BC.md)|백자민|
+|[자바 면접 질문 대비](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EC%B5%9C%EA%B7%9C%EB%A6%BC.md)|최규림|
  
+ ### 2주차 (06.14)
+|파트|이름|
+|------|------|
+|[시스템 설계](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%8A%B9%ED%9D%AC.md)|김승희|
+|[ERD와 정규화 & 트랜잭션과 무결성](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%95%84%EC%98%81.md)|김아영|
+|[캐시 개념 정리](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%A7%80%ED%9D%AC.md)|김지희|
+|[Strategy Pattern](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EB%B0%B1%EC%9E%90%EB%AF%BC.md)|백자민|
+|[자바의 버전 정리](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EC%B5%9C%EA%B7%9C%EB%A6%BC.md)|최규림|
  
  ### 1주차 (06.08)
 |파트|이름|
 |------|------|
-|[]()|김승희|
-|[]()|김아영|
-|디자인패턴 개념 정리|김지희|
-|[]()|백자민|
-|[]()|최규림|
+|[데이터베이스](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%8A%B9%ED%9D%AC.md)|김승희|
+|[데이터베이스 기본](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%95%84%EC%98%81.md)|김아영|
+|[디자인패턴 개념 정리](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EA%B9%80%EC%A7%80%ED%9D%AC.md)|김지희|
+|[Singletone Pattern](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EB%B0%B1%EC%9E%90%EB%AF%BC.md)|백자민|
+|[자바의 변화](https://github.com/myeonbu-CS-Study/myeonbu-CS/blob/main/Phase3/%EC%B5%9C%EA%B7%9C%EB%A6%BC.md)|최규림|
  
 <details>
 <summary>
